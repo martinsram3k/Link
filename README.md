@@ -4,8 +4,27 @@ Tento macropad bude odlyšený od ostatních tím že bude spojovat nelepší fu
 
 ---
 
-## Předeělé verze
+## Předešlé verze
 
 [FLOW](https://github.com/martinsram3k/FLOW)
 [NODE](https://github.com/martinsram3k/NODE)
+
+---
+
+## Funkce které macropad bude mít:
+
+| Funkce | Důvod funkce | Jak funkce bude fungovat |
+| :---: | :---: | :---: |
+| Baterie | LINK bude wireless | Integrovaná naíjčka lipo baterie |
+| Bluetooth | Aby LINK mohl fungovat bez kabelu | MCU má integrovaný bluetooth modul |
+| Haptický feedback | Aby uživatel měl zpětnou vazbu při stisku klavesy | Ovládání vybračního motoru pomocí transistoru |
+| Underglow | Aestetický vzhled | Adresovatelné led (WS2812B) |
+| Display | Uživatel uvidí aktivní klavesové zkratky a také widgety (čas, ovládání hudby, atd) | 1.9 Inch TFT Display |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
 
